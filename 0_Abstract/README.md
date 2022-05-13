@@ -25,8 +25,6 @@ In this proect we will build manually controlled wiper control system. We built 
 -   __Feature-3(Control Off):__ On key ___press-4___ the system is ON(LED-RED-ON), on press again the system goes back to ___step-2___
 -   __Feature-4(System OFF):__ The wiper control system becomes inactive on ___Hold of Button___ or 2 seconds and Red LED will OFF indicating system is OFF.
 
-### The working of motor is visualized in terms of LED action in STM32F4 - Discovery
-
 ## How the project works
 1.  __Ignition Key Position at ACC:__ The Red LED is ON, if the user button is pressed and held for 2 secs
 2.  __Wiper ON:__ On press of the user input, Blue, Green and Orange LEDs come ON one at a time with the set frequency, The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz
