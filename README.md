@@ -12,6 +12,9 @@ In this proect we will build manually controlled wiper control system. We built 
 ![Code Grade](https://api.codiga.io/project/33408/status/svg)
 
  ![Build Linux](https://github.com/NISHITHADOKIPARTHI/M3_Wiper_Control_System/actions/workflows/built%20on%20linux.yml/badge.svg)
+
  [![Cppcheck Analysis](https://github.com/NISHITHADOKIPARTHI/M3_Wiper_Control_System/actions/workflows/Cppcheck%20Analyse.yml/badge.svg)](https://github.com/NISHITHADOKIPARTHI/M3_Wiper_Control_System/actions/workflows/Cppcheck%20Analyse.yml)
+
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c32b76e5042d4559a4bc51a2c4ca445f)](https://www.codacy.com/gh/NISHITHADOKIPARTHI/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NISHITHADOKIPARTHI/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
 
 
