@@ -17,4 +17,6 @@ In this proect we will build manually controlled wiper control system. We built 
 
  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c32b76e5042d4559a4bc51a2c4ca445f)](https://www.codacy.com/gh/NISHITHADOKIPARTHI/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NISHITHADOKIPARTHI/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
 
+[![CodeQL](https://github.com/NISHITHADOKIPARTHI/M3_Wiper_Control_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/NISHITHADOKIPARTHI/M3_Wiper_Control_System/actions/workflows/c-cpp.yml)
+
 
