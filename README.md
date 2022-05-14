@@ -8,4 +8,8 @@ In this proect we will build manually controlled wiper control system. We built 
 
 ## BADGES
 ![Code quality](https://api.codiga.io/project/33408/score/svg)
+
 ![Code Grade](https://api.codiga.io/project/33408/status/svg)
+
+ ![Build Linux](https://github.com/NISHITHADOKIPARTHI/M3_Wiper_Control_System/actions/workflows/built%20on%20linux.yml/badge.svg)
+
