@@ -12,4 +12,6 @@ In this proect we will build manually controlled wiper control system. We built 
 ![Code Grade](https://api.codiga.io/project/33408/status/svg)
 
  ![Build Linux](https://github.com/NISHITHADOKIPARTHI/M3_Wiper_Control_System/actions/workflows/built%20on%20linux.yml/badge.svg)
+ [![Cppcheck Analysis](https://github.com/NISHITHADOKIPARTHI/M3_Wiper_Control_System/actions/workflows/Cppcheck%20Analyse.yml/badge.svg)](https://github.com/NISHITHADOKIPARTHI/M3_Wiper_Control_System/actions/workflows/Cppcheck%20Analyse.yml)
+
 
